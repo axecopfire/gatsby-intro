@@ -8,3 +8,6 @@
 - Loaded Dependencies
     - react-helmet
     - emotion
+    - gatsby-transformer-sharp
+
+- Webp for images
