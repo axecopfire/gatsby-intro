@@ -20,7 +20,7 @@ const Insta = () => {
                 {instaPhotos.map(photo => (
                     <a
                         key={photo.id}
-                        href={`https://instagram.con/p/${photo.id}/`}
+                        href={`https://instagram.com/p/${photo.id}/`}
                         css={css`
                             box-shadow: 0; 
                             display: block;
