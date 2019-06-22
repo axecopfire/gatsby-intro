@@ -11,3 +11,5 @@
     - gatsby-transformer-sharp
 
 - Webp for images
+- Using gatsby images with gatsbyjs
+- gatsby sqip for images
